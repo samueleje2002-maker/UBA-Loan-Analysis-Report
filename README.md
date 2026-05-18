@@ -80,9 +80,8 @@ https://raw.githubusercontent.com/samueleje2002-maker/UBA-Loan-Analysis-Report/r
 
 🚀 Project Files
 
-- Power BI Dashboard (.pbix)
-- Dataset
-- Dashboard Screenshots
+- Power BI Dashboard (.bank report.pbix)
+- Dataset(financial_loan.csv)
 
 ---
 
