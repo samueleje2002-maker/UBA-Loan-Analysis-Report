@@ -70,10 +70,10 @@ Customer Details Dashboard
 
 📷 Dashboard Preview
 ![Summary Dashboard]
-(dashboard-summary.png)
+https://raw.githubusercontent.com/samueleje2002-maker/UBA-Loan-Analysis-Report/refs/heads/main/UBA%201.png
 
 ![Overview Dashboard]
-(dashboard-overview.png)
+https://raw.githubusercontent.com/samueleje2002-maker/UBA-Loan-Analysis-Report/refs/heads/main/UBA%202.png
 
 
 ---
